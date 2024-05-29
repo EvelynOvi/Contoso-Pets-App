@@ -1,0 +1,14 @@
+C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Add Logic to C# Console Applications\OtherProject\ContosoPetsApp\Final\bin\Debug\net8.0\Final.exe
+C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Add Logic to C# Console Applications\OtherProject\ContosoPetsApp\Final\bin\Debug\net8.0\Final.deps.json
+C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Add Logic to C# Console Applications\OtherProject\ContosoPetsApp\Final\bin\Debug\net8.0\Final.runtimeconfig.json
+C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Add Logic to C# Console Applications\OtherProject\ContosoPetsApp\Final\bin\Debug\net8.0\Final.dll
+C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Add Logic to C# Console Applications\OtherProject\ContosoPetsApp\Final\bin\Debug\net8.0\Final.pdb
+C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Add Logic to C# Console Applications\OtherProject\ContosoPetsApp\Final\obj\Debug\net8.0\Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Add Logic to C# Console Applications\OtherProject\ContosoPetsApp\Final\obj\Debug\net8.0\Final.AssemblyInfoInputs.cache
+C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Add Logic to C# Console Applications\OtherProject\ContosoPetsApp\Final\obj\Debug\net8.0\Final.AssemblyInfo.cs
+C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Add Logic to C# Console Applications\OtherProject\ContosoPetsApp\Final\obj\Debug\net8.0\Final.csproj.CoreCompileInputs.cache
+C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Add Logic to C# Console Applications\OtherProject\ContosoPetsApp\Final\obj\Debug\net8.0\Final.dll
+C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Add Logic to C# Console Applications\OtherProject\ContosoPetsApp\Final\obj\Debug\net8.0\refint\Final.dll
+C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Add Logic to C# Console Applications\OtherProject\ContosoPetsApp\Final\obj\Debug\net8.0\Final.pdb
+C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Add Logic to C# Console Applications\OtherProject\ContosoPetsApp\Final\obj\Debug\net8.0\Final.genruntimeconfig.cache
+C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Add Logic to C# Console Applications\OtherProject\ContosoPetsApp\Final\obj\Debug\net8.0\ref\Final.dll
