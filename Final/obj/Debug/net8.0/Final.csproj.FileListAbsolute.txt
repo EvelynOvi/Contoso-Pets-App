@@ -12,3 +12,4 @@ C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Ad
 C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Add Logic to C# Console Applications\OtherProject\ContosoPetsApp\Final\obj\Debug\net8.0\Final.pdb
 C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Add Logic to C# Console Applications\OtherProject\ContosoPetsApp\Final\obj\Debug\net8.0\Final.genruntimeconfig.cache
 C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Add Logic to C# Console Applications\OtherProject\ContosoPetsApp\Final\obj\Debug\net8.0\ref\Final.dll
+C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Add Logic to C# Console Applications\OtherProject\ContosoPetsApp\Final\obj\Debug\net8.0\Final.sourcelink.json
